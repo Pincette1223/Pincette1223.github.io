@@ -169,3 +169,18 @@ exclude:
     - docs
     - README.md
     - LICENSE
+    
+sitemap_exclude: # Sitemap will exclude the following items.    
+fuzzy:    
+    - /assets/    
+accurate:    
+    - /norobots/    
+    - /tabs/    
+    - /categories/    
+    - /tags/    
+    - /posts/    
+    - 404.html    
+    - feed.xml    
+    - sitemap.xml    
+    - robots.txt    
+    - redirects.json
