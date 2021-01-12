@@ -11,36 +11,32 @@
 category_dir: tabs/categories/
 tag_dir: tabs/tag/
 
-title: Namnyang # the main title
+title: Day-08 # the main title
 
-tagline: 코딩하는 중딩 # it will display as the sub-title
+tagline: 코딩하는 데이 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
     MID SCH STDNT DEVELOPER
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: "https://namnyang.github.io"
+url: "https://day-08.github.io"
 
-author: namnyang0510 # change to your full name
+author: Silver_Day # change to your full name
 
 avatar: /assets/img/sample/d.png # support internet resources
 
 github:
-    username: namnyang # change to your github username
-
-twitter:
-    username: Namnyang0510 # change to your twitter username
+    username: Day-08 # change to your github username
 
 social:
-    name: namnyang0510 # it will shows as the copyright owner in Footer
-    email: namnyang0510@google.com # change to your email address
+    name: 실버데이 # it will shows as the copyright owner in Footer
+    email: daaay0123@naver.com # change to your email address
     links:
         # The first element serves as the copyright owner's link
-        - https://twitter.com/Namnyang0510 # change to your twitter homepage
-        - https://github.com/namnyang # change to your github homepage
+        - https://github.com/day-08 # change to your github homepage
         # Uncomment below to add more social links
-        - https://www.facebook.com/namnyang0510
-        # - https://www.linkedin.com/in/username
+        - https://www.instagram.com/eunkyo081223/
+
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -67,7 +63,7 @@ google_analytics:
 disqus:
     comments: true
     # boolean type, the global switch for posts comments.
-    shortname: "namnyang-blog" # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: "day-08-blog" # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # Prefer color scheme setting, available values:
 #
@@ -173,18 +169,3 @@ exclude:
     - docs
     - README.md
     - LICENSE
-
-sitemap_exclude: # Sitemap will exclude the following items.
-    fuzzy:
-        - /assets/
-    accurate:
-        - /norobots/
-        - /tabs/
-        - /categories/
-        - /tags/
-        - /posts/
-        - 404.html
-        - feed.xml
-        - sitemap.xml
-        - robots.txt
-        - redirects.json
