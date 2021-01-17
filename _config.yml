@@ -19,21 +19,21 @@ description: >- # used by seo meta and the atom feed
     I WANT TO BE A DEVELOPER
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: "https://day-08.github.io"
+url: "https://pincette1223.github.io"
 
-author: Silver_Day # change to your full name
+author: Pincette1223 # change to your full name
 
 avatar: /assets/img/myprofile.jpg # support internet resources
 
 github:
-    username: Day-08 # change to your github username
+    username: Pincette # change to your github username
 
 social:
-    name: 실버데이 # it will shows as the copyright owner in Footer
+    name: 핀셋 # it will shows as the copyright owner in Footer
     email: daaay0123@naver.com # change to your email address
     links:
         # The first element serves as the copyright owner's link
-        - https://github.com/day-08 # change to your github homepage
+        - https://github.com/Pincette1223 # change to your github homepage
         # Uncomment below to add more social links
         - https://www.instagram.com/eunkyo081223/
 
