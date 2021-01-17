@@ -11,9 +11,9 @@
 category_dir: tabs/categories/
 tag_dir: tabs/tag/
 
-title: Day-08 # the main title
+title: Pincette # the main title
 
-tagline: 코딩하는 데이 # it will display as the sub-title
+tagline: 코딩하는 핀셋 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
     I WANT TO BE A DEVELOPER
