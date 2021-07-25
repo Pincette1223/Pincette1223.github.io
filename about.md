@@ -6,17 +6,6 @@ output:
     theme: architect
     highlight: github
 ---
-<style type="style/css" >
-  @font-face {
-      font-family: 'Cafe24Ssurround';
-      src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24Ssurround.woff') format('woff');
-      font-weight: normal;
-      font-style: normal;
-  }
-  body {
-      font-family: 'Cafe24Ssurround';
-  }
-</style>
 
 <p class="message">
   안녕하세요! 핀셋입니다! 제 블로그에 와주셔서 감사합니다!
