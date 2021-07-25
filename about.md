@@ -7,6 +7,13 @@ output:
     highlight: github
 ---
 
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+  body {
+    font-family: 'Jua', sans-serif;
+  }
+</style>
+
 <p class="message">
   안녕하세요! 핀셋입니다! 제 블로그에 와주셔서 감사합니다!
 </p>
