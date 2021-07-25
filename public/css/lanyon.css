@@ -166,7 +166,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: #fff;
+  color: black;
 }
 .sidebar-item {
   padding: 1rem;
