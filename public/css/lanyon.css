@@ -152,8 +152,8 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   font-family: 'Jua', sans-serif;
   font-size: .875rem; /* 15px */
-  color: 250, 255, 232;
-  background-color: rgba(163, 246, 255,.6);
+  color: rgb(250, 255, 232);
+  background-color: white;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -166,7 +166,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: black;
+  color: rgb(250, 255, 232);
 }
 .sidebar-item {
   padding: 1rem;
@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6 {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
-  background-color: rgba(163, 246, 255,.1);
+  background-color: white;
   border-color: transparent;
 }
 
@@ -237,8 +237,8 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: rgb(250, 255, 232);
-  background-color: rgba(163, 246, 255,.1);
+  color: #505050;
+  background-color: #fff;
 }
 
 .sidebar-toggle:active:before,
