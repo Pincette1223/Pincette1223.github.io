@@ -49,8 +49,20 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Jua', sans-serif;
   font-weight: 400;
-  color: #313131;
+  color: #cccccc;
   letter-spacing: -.025rem;
+}
+
+.post > li {
+  color: #cccccc;
+}
+
+.post > strong {
+  color: #cccccc;
+}
+
+.post > p {
+  color: #cccccc;
 }
 
 
